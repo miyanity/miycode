@@ -1,6 +1,6 @@
 # ⋆｡°✩ miycode ✩°｡⋆
 
-*˚✦ ground zero → internship ready, week by week ✦˚*
+*˚✦ from ground zero ✦˚*
 
 ---
 
@@ -9,7 +9,7 @@
 ​```
 🌱 starting point: cs50, july 2026
 🎯 goal: internship-ready by fall applications
-📌 pinned favorite: (add once the capstone ships!)
+📌 pinned favorite: 
 ​```
 
 how to use this: 
