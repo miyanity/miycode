@@ -7,7 +7,7 @@
 ## 🎀 about this repo
 
 ​```
-🌱 starting point: cs50, july 2026
+🌱 starting point: cs50, mid-sept 2026
 🎯 goal: internship-ready by fall applications
 📌 pinned favorite: 
 ​```
