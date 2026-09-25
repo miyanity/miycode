@@ -21,7 +21,6 @@ how to use this:
 
 ## ⋆｡° phase 00 — tracking system (day 1)
 - [x] repo created
-- [ ] projects board set up (backlog / learning / building / shipped)
 - [ ] first commit pushed
 
 ## ⋆｡° phase 01 — CS50P (weeks 1–4)
